@@ -113,6 +113,13 @@ print "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n";
     <script src="./include/views/graphs/javascript/centreon-c3.js"></script>
     <script src="./include/common/javascript/numeral.min.js"></script>
     <script src="./include/views/graphs/javascript/centreon-status-chart.js"></script>
+    <!-- moment js -->
+    <!--previous version used-->
+    <!--script src="./include/common/javascript/moment-with-locales.js" charset="UTF-8"></script-->
+    <!-- latest version - 2018 03 13-->
+    <script src="./include/common/javascript/moment-with-locales.min.2.21.js"></script>
+
+    <script src="./include/common/javascript/moment-timezone-with-data.min.js"></script>
 
     <?php
     /*
