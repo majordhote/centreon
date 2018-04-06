@@ -4,7 +4,7 @@ Nagios Reader vers Centreon CLAPI
 
 **Nagios Reader to Centreon CLAPI** est un projet libre et open source qui permet
 d'analyser une configuration Nagios contenue dans les fichiers CFG et de 
-transformer celle-ci en commandes compatibles Centreon CALPI afin de pouvoir 
+transformer celle-ci en commandes compatibles Centreon CLAPI afin de pouvoir 
 importer les objets dans l'interface Centreon web.
 
 Prérequis
